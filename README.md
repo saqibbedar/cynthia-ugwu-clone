@@ -13,6 +13,7 @@ To clone this repository and explore Cynthia Ugwu’s design, follow these steps
 1. Open your terminal or Git client.
 2. Navigate to the directory where you want to clone the repository.
 3. Run the following command:
+
     ```bash
     git clone https://github.com/saqibbedar/cynthia-ugwu-clone
     ```
