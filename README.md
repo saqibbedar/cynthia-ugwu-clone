@@ -20,7 +20,7 @@ To clone this repository and explore Cynthia Ugwu’s design, follow these steps
 
 ## Preview
 
-You can view the cloned website [here]() or by opening the `index.html` file in your browser.
+You can view the cloned website [here](https://saqibbedar.github.io/cynthia-ugwu-clone/) or by opening the `index.html` file in your browser.
 
 ## Credits
 
